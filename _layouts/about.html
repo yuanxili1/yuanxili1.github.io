@@ -5,8 +5,9 @@ layout: default
 <div class="post">
 
   <header class="post-header">
+    <p>{{ page.welcome}}</p>
     <h1 class="post-title">
-     {% if site.title == "blank" %}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{% else %}{{ site.title }}{% endif %}
+     {% if site.headline == "blank" %}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{% else %}{{ site.headline }}{% endif %}
     </h1>
      <p class="desc">{{ page.description }}</p>
   </header>

@@ -16,10 +16,9 @@ profile:
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+welcome: Welcome to Yuanxi’s Homepage!
 ---
-Welcome to Yuanxi’s Homepage!
-
-I am a senior undergraduate student in Mathamatics & Computer Science at University of Illinois at Urbana-Champaign. I am now fortunated to be working in CoAI Lab@THU advised by <a href="http://coai.cs.tsinghua.edu.cn/hml">Prof. Minlie Huang</a> and in Tencent WXG AI Lab.
+I am a senior undergraduate student in Mathamatics & Computer Science at University of Illinois at Urbana-Champaign (UIUC). I am now fortunated to be working in CoAI Lab@THU advised by <a href="http://coai.cs.tsinghua.edu.cn/hml">Prof. Minlie Huang</a> and in Tencent WXG AI Lab.
 
 My current research area is in Language/Text Generation and Deep Learning for Natural Language Processing and Dialogue System. And my exploration interests lie in the intersections of general Machine Learning theory, Natural Language Processing and Data Mining.
 
