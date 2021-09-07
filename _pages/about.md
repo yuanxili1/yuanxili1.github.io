@@ -18,11 +18,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 welcome: Welcome to Yuanxi’s Homepage!
 ---
-I am a senior undergraduate student in Mathamatics & Computer Science at University of Illinois at Urbana-Champaign (UIUC). I am now fortunated to be working in CoAI Lab@THU advised by <a href="http://coai.cs.tsinghua.edu.cn/hml">Prof. Minlie Huang</a> and in Tencent WXG AI Lab.
+I am a Senior undergraduate student in Mathamatics & Computer Science at <a href="https://illinois.edu/">University of Illinois at Urbana-Champaign (UIUC)</a>. I am now fortunated to be working in <a href="https://ai.tencent.com/">Tencent AI Lab</a>@WXG and <a href="http://coai.cs.tsinghua.edu.cn/">CoAI Lab@THU</a> advised by Prof. <a href="http://coai.cs.tsinghua.edu.cn/hml">Minlie Huang</a>.
 
-My current research area is in Language/Text Generation and Deep Learning for Natural Language Processing and Dialogue System. And my exploration interests lie in the intersections of general Machine Learning theory, Natural Language Processing and Data Mining.
+My current research area is in Natural Language Generation(NLG), Deep Learning for NLP and Dialogue System. 
+And my exploration interests lie in the intersections of Interpretable Machine Learning, NLP and Data Mining.
 
-Feel free to drop me an e-mail if you are interested in my research and want to discuss relevant research topic or potential collaborations.
+Feel free to drop me an <a href="mailto:{{ site.email | encode_email }}">e-mail</a> if you are interested in my research and want to discuss relevant research topic or potential collaborations.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
