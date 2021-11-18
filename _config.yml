@@ -68,8 +68,8 @@ dblp_url: # your DBLP profile url
 contact_note: >
   Feel free to drop me a message.
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
-panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
+google_analytics:     # UA-XXXXXXXXX  out your google-analytics code
+panelbear_analytics:  # XXXXXXXXX     panelbear analytics site ID
 
 # -----------------------------------------------------------------------------
 # Blog
