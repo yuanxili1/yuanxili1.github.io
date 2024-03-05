@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Yuanxi Ewan Li (李袁熙) # the website title (if blank, full name will be used instead)
+title: Yuanxi Ewan Li # the website title (if blank, full name will be used instead)
 headline: About Me
 first_name: Yuanxi
 middle_name: Ewan
@@ -53,7 +53,7 @@ github_username: yuanxili1 # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: Rivulet_Sonata # your Twitter handle
 linkedin_username: yuanxi-ewan-li # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
+scholar_userid: 7XzkMAMAAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
