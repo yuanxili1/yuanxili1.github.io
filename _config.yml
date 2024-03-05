@@ -7,7 +7,7 @@ headline: About Me
 first_name: Yuanxi
 middle_name: Ewan
 last_name: Li
-email: li.yuanxi@outlook.com
+email: li.yyuanxi@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Yuanxi Ewan Li's Academic Homepage.
 footer_text: >
@@ -49,9 +49,9 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: yuanxili1 # your GitHub user name
+github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: Rivulet_Sonata # your Twitter handle
+twitter_username: # your Twitter handle
 linkedin_username: yuanxi-ewan-li # your LinkedIn user name
 scholar_userid: 7XzkMAMAAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID

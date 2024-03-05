@@ -4,4 +4,4 @@ date: 2021-08-19 15:59:00-0800
 inline: true
 ---
 
-I am joining Tencent AI Lab@WXG as an intern researcher!
+ Starting research internship in Tencent AI Lab@WXG, working with Dr. <a href="https://scholar.google.com/citations?user=q3WaozcAAAAJ&hl=en">Hao Zhou</a>.
