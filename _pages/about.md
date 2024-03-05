@@ -7,7 +7,7 @@ description:
 
 profile:
   align: right
-  image: LYX.JPG
+  image: lyx.jpg
   # address: 
     # <p>555 your office number</p>
     # <p>123 your address street</p>
