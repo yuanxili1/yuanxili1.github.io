@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
- Starting research internship in Tencent AI Lab@WXG, working with Dr. <a href="https://scholar.google.com/citations?user=q3WaozcAAAAJ&hl=en">Hao Zhou</a>.
+Starting research internship in Tencent AI Lab@WXG, working with Dr. <a href="https://scholar.google.com/citations?user=q3WaozcAAAAJ&hl=en">Hao Zhou</a>.

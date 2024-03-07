@@ -4,14 +4,14 @@ layout: default
 <div class="post">
   <header class="post-header">
     <h1 class="post-title">
-      {% if site.headline == "blank" %}
+      {% if site.headline == 'blank' %}
         <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
         {{ site.last_name }}
       {% else %}
         {{ site.headline }}
       {% endif %}
     </h1>
-    <p>{{ page.welcome}}</p>
+    <p>{{ page.welcome }}</p>
     <p class="desc">{{ page.subtitle }}</p>
   </header>
 
