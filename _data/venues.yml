@@ -5,3 +5,15 @@
 "EMNLP2023":
   url: https://2023.emnlp.org/
   color: "#00369f"
+
+"ICASSP2024":
+  url: https://2024.ieeeicassp.org/
+  color: "#00369f"
+
+"TNNLS":
+  url: https://cis.ieee.org/publications/t-neural-networks-and-learning-systems
+  color: "#00369f"
+
+"CVPR2025":
+  url: https://cvpr.thecvf.com/Conferences/2025
+  color: "#00369f"
